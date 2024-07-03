@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/ReactTypescriptTemplate.git
+git clone https://github.com/7empestx/ReactTypescriptTemplate.git
 cd ReactTypescriptTemplate
 npm install
 ```
