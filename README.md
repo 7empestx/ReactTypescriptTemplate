@@ -16,6 +16,7 @@ A modern, feature-rich template for building robust React applications with Type
 ## 🛠️ Prerequisites
 
 Before you begin, ensure you have the following installed:
+
 - [Node.js](https://nodejs.org/) (which includes npm)
 - [Webpack](https://webpack.js.org/) (global installation recommended)
 
