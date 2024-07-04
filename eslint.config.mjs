@@ -11,6 +11,6 @@ export default tseslint.config(
         tsconfigRootDir: import.meta.dirname,
       },
     },
-    ignores: ['webpack.config.js', 'eslint.config.mjs'],
+    ignores: ['webpack.config.js', 'eslint.config.mjs', '**/dist/'],
   }
 );

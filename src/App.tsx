@@ -1,9 +1,12 @@
 import React from 'react';
+import '@aws-amplify/ui-react/styles.css';
+import Dashboard from './Dashboard';
+import { Authenticator } from '@aws-amplify/ui-react';
 
 export default function App() {
   return (
-    <div>
-      <h1>App</h1>
-    </div>
+    <Authenticator.Provider>
+      <Dashboard />
+    </Authenticator.Provider>
   );
 }
