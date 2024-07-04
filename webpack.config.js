@@ -36,6 +36,6 @@ module.exports = {
     },
     port: 3000,
     open: true,
-    historyApiFallback: true,
+    historyApiFallback: true, // Fixes obnoxious 404 error when refreshing page and CSP issues
   },
 };
