@@ -3,3 +3,4 @@ build
 .env
 dist
 cdk/node_modules
+cdk/cdk.out

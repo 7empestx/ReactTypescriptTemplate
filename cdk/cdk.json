@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/awscdk_template.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/ReactTypescriptTemplate.ts",
   "watch": {
     "include": ["**"],
     "exclude": [
